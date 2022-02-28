@@ -1,0 +1,404 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A delicate, dainty, damnable dialogue. Between the Devill and a Jesuite. By Iohn Taylor.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95534</idno>
+            <idno type="STC">Wing T447</idno>
+            <idno type="STC">Thomason E142_8</idno>
+            <idno type="STC">ESTC R212745</idno>
+            <idno type="EEBO-CITATION">99871321</idno>
+            <idno type="PROQUEST">99871321</idno>
+            <idno type="VID">156575</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156575)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E142[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A delicate, dainty, damnable dialogue. Between the Devill and a Jesuite. By Iohn Taylor.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for I.H. for Thomas Banks [sic],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156575:1" rendition="simple:additions"/>
+            <p>A Delicate, Dainty, Damnable DIALOGVE, Between the Devill and a Jeſuite.</p>
+            <p>By <hi>Iohn Taylor.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of the devill and a Jesuit</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>I. H.</hi> for <hi>Thomas Banks.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:156575:2"/>
+            <head>A Delicate, Dainty, Damnable Dialogue, between the Devill and the Jeſuite.</head>
+            <sp>
+               <speaker>Devill.</speaker>
+               <l>MY Deere Adopted Son, ſince we are met</l>
+               <l>And in our ſerious conſultation ſet,</l>
+               <l>Let us contrive ſome ſtratagem moſt fit.</l>
+               <l>Our Antient Greatneſſe, and deep-ſearching witt,</l>
+               <l>Lets lay ſuch plots, may make the World admire,</l>
+               <l>And ad more fuell to our endleſſe fire.</l>
+            </sp>
+            <sp>
+               <speaker>Ieſu.</speaker>
+               <l>An't pleaſe your Graceleſſe Maieſtie to note</l>
+               <l>That I, with all the Brethren of my Coate,</l>
+               <l>Have been the trueſt Servants unto you,</l>
+               <l>Wee hold it Iuſt to give the Devill his due,</l>
+               <l>Wee have from North to South, from Eaſt to Weſt,</l>
+               <l>Survaid the World, and wee have done our beſt</l>
+               <l>In every Province, Realme and Monarchie</l>
+               <l>T'advance and raiſe the Papall Dignitie,</l>
+               <l>And raiſing <hi>That,</hi> wee underſtand right well,</l>
+               <l>Wee doe enlarge your Antient Kingdome Hell.</l>
+            </sp>
+            <sp>
+               <speaker>Devil.</speaker>
+               <l>Though Truth and I did ever diſagree,</l>
+               <l>Yet truth I muſt ſay, that the Ieſuites be</l>
+               <l>My deereſt Servants, they have ever been</l>
+               <l>My Actors, and my factors (ſoules to winne)</l>
+               <l>But now our Cunning is found out, and croſt,</l>
+               <l>And if wee look not to't, all will be loſt.</l>
+            </sp>
+            <sp>
+               <speaker>Ieſu.</speaker>
+               <l>Your Hellhood cannot taxe us (Mighty Prince)</l>
+               <l>With ſleepy idleneſſe, or negligence:</l>
+               <pb facs="tcp:156575:2"/>
+               <l> Wee have adventured oft in dangers deepe,</l>
+               <l>To lull the King of Chriſtendome aſleep,</l>
+               <l>We have made Spaine for us, and Italie,</l>
+               <l>Poland, and the greateſt part of Germanie,</l>
+               <l>Hungaria, Ruſſia, France, all Catholikes,</l>
+               <l>(Except a crew of wilfull Hereticks)</l>
+               <l>Such as will not by our perſwaſions come,</l>
+               <l>And be obedient to the Sea of Rome,</l>
+               <l>The Houſe of Auſtria, and great Bavarre,</l>
+               <l>With Brabant, all our owne already are,</l>
+               <l>But Britaine, Sweaden, and the warlike Dane,</l>
+               <l>We ſeek their Ruine, and they worke our Bane,</l>
+               <l>There is a Parliament in England now,</l>
+               <l>That all Romes Rights, and Rites do diſallow,</l>
+               <l>And ſure the <hi>Scots,</hi> with them ſo faſt are Knitt,</l>
+               <l>That (to the Pope) they never will ſubmit,</l>
+               <l>Wee have done all we could, it plaine appeares</l>
+               <l>To ſet them altogether by the eares,</l>
+               <l>And wee have uſ'd all meanes how to prevent</l>
+               <l>All the proceedings of the Parliament,</l>
+               <l>We have ſow'd falſe diſtruſts and iealouſies,</l>
+               <l>Mad Tumults, Libells, baſe reports and Lies;</l>
+               <l>And over al the Land wee cauſ'd to flee</l>
+               <l>Ten thouſand Pamphlets <hi>(all as true as Wee.)</hi>
+               </l>
+               <l>And yet we all, as if our wits were Dull'd,</l>
+               <l>Are in our expectations) meerly Gull'd,</l>
+               <l>For if we could that Parliament have broken,</l>
+               <l>Wee had done ſomthing worthy to be ſpoken.</l>
+               <l>But they are <hi>all</hi> (in Vnitie) ſo tide,</l>
+               <l>That <hi>all</hi> our plots can never them devide,</l>
+               <l>Which makes us now the out-caſt ſcorne of men,</l>
+               <l>The Common abicts of each Paſquills Pen,</l>
+               <l>And as our VViſdomes have been highly priz'd,</l>
+               <l>VVee now are greateſt Fooles, and moſt deſpiſ'd;</l>
+               <pb facs="tcp:156575:3"/>
+               <l> Wherefore (great Monarke of Eternall Night)</l>
+               <l>Direct and teach us to regaine our Right,</l>
+               <l>Inſpire us with thy Rate Infernall skill,</l>
+               <l>And wee obediently will doe thy will.</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>I tell the Son, that ſince the firſt Creation,</l>
+               <l>I ſtill have wrought the Churches deſolation,</l>
+               <l>The firſt man made, I taught to diſobey</l>
+               <l>The firſt-borne, his iuſt Brother how to ſlay.</l>
+               <l>Infernally I Sodome did inſpire,</l>
+               <l>Which drew upon them Heavens conſuming fire,</l>
+               <l>To righteous <hi>Lot,</hi> I gave inceſtuous drinke,</l>
+               <l>
+                  <hi>Noah</hi> unſeemly in his Tent did winke,</l>
+               <l>I tempted <hi>Corah,</hi> madly to Rebell,</l>
+               <l>And hee and his were ſwallowed quick to Hell,</l>
+               <l>I had a wedge on <hi>Achan</hi> to beſtow,</l>
+               <l>A <hi>Dallilah,</hi> a ſtrong man to o'rethrow,</l>
+               <l>In <hi>Ahabs</hi> Reigne, I had Knights of the Poſt,</l>
+               <l>When Nabaoths Vineyard, and his life were loſt,</l>
+               <l>The Patriarks, and Prophets, every one,</l>
+               <l>And my chiefe Enemie, Th' Almighties Sonne</l>
+               <l>I perſecuted to the death, and I</l>
+               <l>Have been the cauſe of all the Tiranny</l>
+               <l>Inflicted on th' Apoſtles, and the Ten</l>
+               <l>Firſt perſecuions on ſo many men,</l>
+               <l>With Women, Children, as it plaine appeares.</l>
+               <l>In Hiſtories, the firſt three hundred yeeres,</l>
+               <l>I in the Marrian Time did Havock make</l>
+               <l>In England, Thouſands were conſum'd at ſtake,</l>
+               <l>The maſſacres in France, I form'd, and wrought,</l>
+               <l>And thouſand Proteſtants to death I brought,</l>
+               <l>Two <hi>Henries,</hi> Kings of France, both murdered,</l>
+               <l>And <hi>William,</hi> Prince of Aurenge, piſtol'd dead,</l>
+               <l>Duke D'Alva, vex'd the Netherlanders too,</l>
+               <l>And Tiranniz'd as bad as I could doe,</l>
+               <pb facs="tcp:156575:3"/>
+               <l> The plot of eighty eight I did proiect,</l>
+               <l>(A vengeance light on't, thad but bad effect)</l>
+               <l>And I the Powder Treaſon firſt did mint,</l>
+               <l>Although we had but ſcurvy fortune in't.</l>
+               <l>Theſe have I done, and miſchiefes millions more,</l>
+               <l>And yet I have not empted all my ſtore.</l>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <l>Great Emperour of Darkneſſe, briefly then,</l>
+               <l>Seeke to confound the Scots and Engliſh men,</l>
+               <l>They are our greateſt and our hatefull'ſt foes,</l>
+               <l>Of all our Enemies, none like to thoſe.</l>
+               <l>The Hollanders of Amſterdam, or Delfe,</l>
+               <l>Their faith is much indifferent (like my ſelfe)</l>
+               <l>As for Religion, ſo it bring in profit,</l>
+               <l>Let it be what it will, they thinke not of it:</l>
+               <l>Geneva is a little paltry Plot,</l>
+               <l>That hath all Romiſh duty quite forgot;</l>
+               <l>But Britaine is the Magazen of them,</l>
+               <l>That will tread downe the Papall Diadem,</l>
+               <l>Therefore againſt them all your forces call,</l>
+               <l>For if you conquer them, you have won all.</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>My pen poſts (Libels) my learned Scr. be</l>
+               <l>Ile ſet a work, and I will fill with Bribes;</l>
+               <l>The hands of Iuſtice, Gold ſhall cleare, or bleare</l>
+               <l>His eyes, and ſtop her eares, ſhe ſhall not heare,</l>
+               <l>Suſpitious Ielouſies Ile frame, and fling,</l>
+               <l>Shall breed diſtaſte 'twixt Subiects and the King,</l>
+               <l>That though they all meane well, Ile make a puther,</l>
+               <l>They ſcarcely ſhall beleeve, or truſt each other:</l>
+               <l>I in the Church will ſuch diviſion ſow,</l>
+               <l>Which ſhall goe neere the Church to overthrow:</l>
+               <l>Ile ſcatter ſtrange Hreticall opinions,</l>
+               <l>In every corner of the Lands Dominions,</l>
+               <l>That thoſe that ſee the madneſſe of their Braines,</l>
+               <l>Shall thinke the Devill is in them, taking paines,</l>
+               <pb facs="tcp:156575:4"/>
+               <l> Like Hidraes heads, Ile make complaints encreaſe</l>
+               <l>That ſhall diſturbe the King and Kingdomes peace;</l>
+               <l>In every corner, I ſuch ſtrife will ſcatter,</l>
+               <l>That it ſhall ſeeme a Poole of troubled water,</l>
+               <l>Beſides, my Iriſh Sons (the great <hi>O Donnell</hi>)</l>
+               <l>With his ſtout Kernes, and noble ſtout <hi>Tirconnell:</hi>
+               </l>
+               <l>Theſe with great troopes of Rebells, I will reare,</l>
+               <l>That ſhall diſturbe and worke much michiefe there.</l>
+               <l>
+                  <hi>A</hi> Proverb ſaies, He that will England winne,</l>
+               <l>He bold<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y firſt (with Ireland muſt begin,)</l>
+               <l>And there already, I have ſo begun,</l>
+               <l>That I doubt not our will, will there be done.</l>
+               <l>Thus (Fencer-like) my aime and ſtroke is wide,</l>
+               <l>I ſtrike at England, quite through Irelands ſide.</l>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <l>Could you make England like to Germany,</l>
+               <l>
+                  <hi>A</hi> Field of blood, a Land of miſery,</l>
+               <l>A grizly Golgatha of Dead Mens Bones,</l>
+               <l>An Empire waſted, full of ſighes and groanes:</l>
+               <l>Your plots and ours, there twenty yeares have lafted,</l>
+               <l>In halfe that time all Brittaine may be waſted;</l>
+               <l>We (of our holy Order) have inſtill'd</l>
+               <l>Such counſell into <hi>Ceſars</hi> eares, which fill'd</l>
+               <l>His Royall heart with wrath, his minde with error,</l>
+               <l>All Chriſtendome with horror, griefe and terror:</l>
+               <l>Bavariaes Duke we (as we pleas'd) did mold,</l>
+               <l>We drave the Palſgrave from Bohemias Hold,</l>
+               <l>(For never Prince did our Enchantment hear,</l>
+               <l>But he was ſtraight wayes ours, through love; or feare)</l>
+               <l>We are their Confeſſors; we know their mind,</l>
+               <l>And at our pleaſure, can them turne and wind,</l>
+               <l>They doe confeſſe themſelves to us, and we</l>
+               <l>Doe know their ſecrets, and their Maſter be,</l>
+               <l>Yet though (like Kings) we rule and Raigne,</l>
+               <l>The King of Brittaine we ſhall never gaine,</l>
+               <pb facs="tcp:156575:4"/>
+               <l> He tearmes us vaſſals to the Romiſh Whore,</l>
+               <l>And ſcornes us, as his Father did before.</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>Well, ſince we cannot win him, this wee'l doe,</l>
+               <l>Wee'l trouble him, and all his people too,</l>
+               <l>And we have reaſon for't, for he of late,</l>
+               <l>A match with Aurange Son did conſumate,</l>
+               <l>And his faire Daughter, ſure that marriage may</l>
+               <l>Prove croſſe to our proceedings many a way,</l>
+               <l>For if Naſſaw had not led Belgias powers,</l>
+               <l>The Butter Boxes, had long ſince bin ours;</l>
+               <l>Could'ſt thou have croſt that Marriage, thou hadſt done</l>
+               <l>A worke moſt worthy to be call'd my ſon.</l>
+            </sp>
+            <sp>
+               <speaker>Ieſ.</speaker>
+               <l>The newes of it amongſt us was ſo bad,</l>
+               <l>At Doway, and at Antwerp all were mad,</l>
+               <l>But could not hinder't, there's a power ſupernall,</l>
+               <l>That countermands our pollices infernall;</l>
+               <l>And ſince we cannot win what we intend,</l>
+               <l>Let us continually our forces bend,</l>
+               <l>That what we cannot gaine with care and toyle,</l>
+               <l>We may diſturb, vex, ruinate, and ſpoyle.</l>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>Ile fill the Cinque Ports of the Iſle of Man</l>
+               <l>With mallice and with miſchiefe, all I can,</l>
+               <l>I will mens fancie with ſuch humours fit,</l>
+               <l>They ſhall want time to thinke on grace, or wit,</l>
+               <l>Ile kil their loves, and for it give them ſcornes,</l>
+               <l>That all ſhall kicke the man whom Fortune ſpurnes,</l>
+               <l>Fantaſticke toyes within their pates ſhal gingle,</l>
+               <l>And truth with falſhood they ſhal brew and mingle,</l>
+               <l>Ile make the World of ſuch an od condition,</l>
+               <l>Ile turne it to foole, fe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther, or Phyſitian,</l>
+               <l>This can I can doe, and take but little paine,</l>
+               <l>'Tis but to doe my old worke or'e againe,</l>
+               <l>So farewell Son, let's once againe begin</l>
+               <l>To dee ſome miſchiefe where we cannot win.</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:156575:5"/>
+               <speaker>Ieſ.</speaker>
+               <l>I have a ſhort complaint few yeares agon,</l>
+               <l>
+                  <hi>A</hi> Latine Annagram I look'd upon;</l>
+               <l>Againſt the Pope moſt knaviſhly 'tis writ,</l>
+               <l>He read it, and you can interpret it.</l>
+               <q xml:lang="lat">
+                  <l>Supreamus Pontifex Romanus.</l>
+               </q>
+               <q>
+                  <floatingText xml:lang="lat">
+                     <body>
+                        <div type="anagram">
+                           <head>ANNAGRAMMA.</head>
+                           <l>O Non Sum Supra Petram fixus.</l>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </sp>
+            <sp>
+               <speaker>Dev.</speaker>
+               <l>This gives your Holy Father a ſhrewd knock,</l>
+               <l>It ſayes he is not fixed on a Rock:</l>
+               <l>Let him fix where he can, let's make an end,</l>
+               <l>As long as hee'l ſerve me, I am his friend.</l>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
